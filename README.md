@@ -101,3 +101,4 @@ def play():
         print("AI가 이겼습니다!")
     else:
         print("무승부입니다.")
+play()
